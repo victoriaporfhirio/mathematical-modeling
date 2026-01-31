@@ -8,7 +8,6 @@ This repository contains academic and extracurricular projects related to applie
 - Computational simulations
 - Data analysis and interpretation
 - Applied mathematics
-- 
 
 ## Tools
 - Octave / MATLAB
@@ -17,4 +16,3 @@ This repository contains academic and extracurricular projects related to applie
 - Optimization
 - C
 - C++
-- 
